@@ -1,7 +1,3 @@
-<div align="center">
-
-# Hi, I'm Harimoto 👋
-
 ## 🧰 Technologies
 
 <div align="center">
