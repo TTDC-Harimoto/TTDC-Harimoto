@@ -37,9 +37,12 @@
 
 <div align="center">
 
-[![GitHub Profile](https://img.shields.io/badge/View_my_contributions-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TTDC-Harimoto?tab=overview&from=2026-09-01&to=2026-09-08)
-
-GitHub 上で公開されている活動は、プロフィールの Contribution Graph から確認できます。
+<a href="https://github.com/TTDC-Harimoto">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TTDC-Harimoto&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark&amp;locale=ja" alt="TTDC-Harimoto's GitHub stats" />
+</a>
+<a href="https://github.com/TTDC-Harimoto?tab=repositories">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TTDC-Harimoto&amp;layout=compact&amp;hide_border=true&amp;theme=github_dark&amp;locale=ja" alt="TTDC-Harimoto's most used languages" />
+</a>
 
 </div>
 
